@@ -1,1 +1,1 @@
-git{"version":"sde-20210713-TRANQUILITY","url":"https:\/\/www.fuzzworks.co.uk\/dump\/:version\/","format":".sql.bz2","tables":["invCategories","invNames","invTypes","mapDenormalize","mapSolarSystemJumps","staStations"]}
+{"version":"sde-20210713-TRANQUILITY","url":"https:\/\/www.fuzzworks.co.uk\/dump\/:version\/","format":".sql.bz2","tables":["invCategories","invNames","invTypes","mapDenormalize","mapSolarSystemJumps","staStations"]}
