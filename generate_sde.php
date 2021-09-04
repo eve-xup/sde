@@ -4,7 +4,7 @@ $sde_name = 'sde-20210713-TRANQUILITY';
 
 $data = [
     'version'   => $sde_name,
-    'url'       => 'https://www.fuzzworks.co.uk/dump/:version/',
+    'url'       => 'https://www.fuzzwork.co.uk/dump/:version/',
     'format'    => '.sql.bz2',
     'tables'    => [
         "invCategories",
